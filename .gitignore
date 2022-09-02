@@ -1,0 +1,8 @@
+#Para que ignore el archivo quinto.py
+quinto.py
+
+#Para que ignore todos los archivos que finalicen con la virguilla
+*~
+
+#Para que ignore la carpeta de pruebas
+Pruebas/
